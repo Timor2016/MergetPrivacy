@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="399abaf6-3dbe-4dbc-a367-e78558e9ef4d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_config.landscape.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scaffolds/draft.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scaffolds/page.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scaffolds/post.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/magent.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/about/me.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +39,8 @@
       <option name="presentableId" value="Default" />
       <updated>1715518415116</updated>
       <workItem from="1715518416320" duration="2645000" />
-      <workItem from="1715605588727" duration="299000" />
+      <workItem from="1715605588727" duration="436000" />
+      <workItem from="1715606039421" duration="629000" />
     </task>
     <servers />
   </component>
