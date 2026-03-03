@@ -1,4 +1,3 @@
-
 ---
 title: EasyQR Privacy Policy
 ---
