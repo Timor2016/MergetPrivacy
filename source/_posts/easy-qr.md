@@ -2,8 +2,6 @@
 title: EasyQR Privacy Policy
 ---
 
-# EasyQR Privacy Policy
-
 **Last updated: March 2026**
 
 This Privacy Policy describes how EasyQR ("we", "us", or "our") handles your information when you use the EasyQR mobile application (the "App"). We are committed to protecting your privacy.
